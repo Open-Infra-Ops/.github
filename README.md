@@ -1,5 +1,4 @@
 # 开源基础设施运维团队
-![logo](https://user-images.githubusercontent.com/57275663/177911985-0cd5a713-0360-4a4f-983a-306c5f968cb5.jpg)
 
 ## 团队追求： 
 构建最稳固、最可信、最好用的开源基础设施云底座
