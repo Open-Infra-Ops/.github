@@ -1,7 +1,5 @@
 # 开源基础设施运维团队
 
-[![Uploading image.png…]()](https://avatars.githubusercontent.com/u/105340725?s=400&u=e432ee63d4b799e16e358290e20bfd896e4132a3&v=4)
-
 ## 团队追求： 
 构建最稳固、最可信、最好用的开源基础设施云底座
 
