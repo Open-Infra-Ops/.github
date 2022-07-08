@@ -8,7 +8,7 @@
 特别是确保架构稳固：管控平台输入输出；尽可能多提供社区支持，最终实现运维平台自维护；
 
 ## 团队职责：
-![image](https://user-images.githubusercontent.com/57275663/177903398-62c2e0ac-a0ae-45f5-9a8b-8a1c06147cbb.png)
+![image](https://user-images.githubusercontent.com/57275663/177903702-5ce20eb4-bf0d-4fbd-aad7-8d297153d2d1.png)
   1. 基础设施资源管理维护(含采购的商业服务)
     采购
     运维
