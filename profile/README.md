@@ -12,7 +12,6 @@
 
 ## 团队理念：
 Infrastructure As Code </br>
-AI Ops
 
 ## 团队职责：
 ![image](https://user-images.githubusercontent.com/57275663/177903702-5ce20eb4-bf0d-4fbd-aad7-8d297153d2d1.png)
