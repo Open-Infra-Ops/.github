@@ -11,7 +11,7 @@
 小步快跑，全面自动化，不放过任何一次解放双手的机会~
 
 ## 团队理念：
-Infrastructure As Code
+Infrastructure As Code </br>
 AI Ops
 
 ## 团队职责：
